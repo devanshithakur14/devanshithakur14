@@ -6,7 +6,7 @@
 
 # 💫 About Me
 
-I am a Computer Engineering student with a strong foundation in programming, web development, databases, and operating systems.
+I am a IT student with a strong foundation in programming, web development, databases, and operating systems.
 
 I enjoy building practical software solutions and exploring how technology can be used to solve real-world problems. I am continuously developing my technical skills through projects and hands-on learning.
 
